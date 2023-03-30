@@ -10,7 +10,8 @@ Sequeira M, Simões F, Quental C, Ambrósio J, Fonseca P, Vilas-Boas JP, Nakashi
 
 
 # SYSTEMATIC REVIEWS
-### Bibliometric Analysus
+A brief summary of publications focused on gathering the current evidence available in the scientific literature.
+### Bibliometric Analysis
 
 ### Systematic Reviews
 - Alves M, Carvalho DD, Fernandes RJ, Vilas-Boas JP. **How Anthropometrics of Young and Adolescent Swimmers Influence Stroking Parameters and Performance? A Systematic Review.** Int J Environ Res Public Health. 2022 Feb 22;19(5):2543. https://doi.org/10.3390/ijerph19052543.
